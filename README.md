@@ -1,1 +1,2 @@
 # Wordle
+print('hello world')
